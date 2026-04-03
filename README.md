@@ -1,6 +1,6 @@
 # Hi, I'm Samuel! 🚀
 
-I'm a **Systems Analysis and Development** student (2nd Semester) based in Brazil. I'm currently focusing on building robust applications, deepening my computer science foundations through **Harvard's CS50x**, and exploring the fields of **Cybersecurity** and **Artificial Intelligence**.
+I'm a **Systems Analysis and Development** student (2nd Semester) based in Brazil. I'm currently focusing on building robust applications, dand exploring the fields of **Cybersecurity** and **Artificial Intelligence**.
 
 ### 🛠 Tech Stack & Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
