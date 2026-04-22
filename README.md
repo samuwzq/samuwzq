@@ -22,4 +22,4 @@ I'm a **Systems Analysis and Development** student (2nd Semester) based in Brazi
 ---
 
 ### 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](COLE_O_LINK_DO_SEU_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/samuel-vieira-983864249/)
